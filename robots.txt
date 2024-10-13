@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kecipugonu.pages.dev/sitemap.xml
